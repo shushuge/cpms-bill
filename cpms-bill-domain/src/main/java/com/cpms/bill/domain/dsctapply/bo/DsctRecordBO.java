@@ -9,13 +9,4 @@ import java.util.List;
 public class DsctRecordBO {
     private DsctRecord dsctRecord;
     private List<DsctRecordItem> itemList;
-
-
-    public void addItem(){
-
-    }
-
-    public void deleteItem(){
-
-    }
 }
