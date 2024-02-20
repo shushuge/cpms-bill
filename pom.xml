@@ -13,6 +13,7 @@
         <module>cpms-bill-domain</module>
         <module>cpms-bill-infrastructure</module>
         <module>cpms-bill-web</module>
+        <module>cpms-bill-common</module>
     </modules>
 
     <properties>
