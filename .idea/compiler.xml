@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cpms-bill" />
+        <module name="cpms-bill-infrastructure" />
+        <module name="cpms-bill-domain" />
+        <module name="cpms-bill-application" />
+        <module name="cpms-bill-web" />
       </profile>
     </annotationProcessing>
   </component>
